@@ -29,4 +29,4 @@ Analizar el comportamiento de consumo de servicios móviles (llamadas y mensajes
 4. Ejecuta todas las celdas en orden (`Runtime` > `Run all`).
 
 ## 👤 Autor
-Andres Felipe
+Andres Velasquez // Rspykelo
